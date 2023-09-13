@@ -1,0 +1,2 @@
+# TS_network_for_WISDM
+# TS_for_Human_Activity_Recognition
