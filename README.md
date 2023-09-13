@@ -1,2 +1,3 @@
 # TS_network_for_WISDM
-# TS_for_Human_Activity_Recognition
+data: [TS_for_Human_Activity_Recognition](https://www.kaggle.com/datasets/die9origephit/human-activity-recognition)https://www.kaggle.com/datasets/die9origephit/human-activity-recognition
+CNN + LSTM 
